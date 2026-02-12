@@ -1,4 +1,3 @@
-# Archana-Maddela
 # Hi there, I'm Archana Maddela 👋 
 
 <p align="left">
