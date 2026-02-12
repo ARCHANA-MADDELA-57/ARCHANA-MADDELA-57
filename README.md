@@ -1,4 +1,4 @@
-# Hi there, I'm Archana Maddela 👋 
+# Hi there, I'm Maddela Archana 👋 
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Full--Stack%20Developer-blue?style=flat-square" />
