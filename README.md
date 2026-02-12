@@ -42,6 +42,13 @@
 
 ---
 
+### 🚀 Available for Hire
+I am currently seeking new opportunities as a **Full-Stack / Frontend Developer**. I am passionate about building clean, user-friendly applications and am ready to contribute to a forward-thinking team. 
+
+**[📩 Reach out via Email](mailto:archanaarchu5757@gmail.com)**
+
+---
+
 ### 🤝 Let's Connect!
 <p align="left">
 <a href="https://www.linkedin.com/in/archana-maddela" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
