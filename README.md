@@ -7,7 +7,6 @@
 </p>
 
 ### 💫 About Me
-- 🔭 **Currently working on:** Enhancing my [Portfolio Website](https://maddela-archana.vercel.app)
 - 🌱 **Currently learning:** Full Stack Web Development.
 - 💬 **Ask me about:** React, Nodejs, Express, JavaScript, and Web Design.
 - ⚡ **Fun fact:** I love bridging the gap between clean design and robust code.
