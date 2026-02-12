@@ -2,8 +2,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Full--Stack%20Developer-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Open%20Source-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Problem%20Solver-orange?style=flat-square" />
 </p>
 
 ### 💫 About Me
