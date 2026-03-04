@@ -116,20 +116,3 @@
 
 ---
 
-### 🚀 Available for Hire
-I am currently seeking new opportunities as a **Full-Stack / Frontend Developer**. I am passionate about building clean, user-friendly applications and am ready to contribute to a forward-thinking team. 
-
-**[📩 Reach out via Email](mailto:archanaarchu5757@gmail.com)**
-
----
-
-### 🤝 Let's Connect!
-<p align="left">
-<a href="https://www.linkedin.com/in/archana-maddela" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:archanaarchu5757@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://maddela-archana.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</p>
